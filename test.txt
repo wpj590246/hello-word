@@ -1,6 +1,4 @@
-<<<<<<< HEAD
+
 I forgot
 fdfsdfsdf123123123
-=======
-fdfsdfsdf123123123123
->>>>>>> e5782d407e014d593a3b1701e592d352bc4c2360
+
